@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>About</title>
 </head>
 <body>
-로그인 창
+더 알아보기 창
 </body>
 </html>

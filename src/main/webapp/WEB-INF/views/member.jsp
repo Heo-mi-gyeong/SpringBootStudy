@@ -67,7 +67,7 @@ a:hover{
 	<div id="right-content">
 		<p>저의 이름은 허미경입니다.</p>
 		<p>그리고 여기는 메인화면 입니다.</p><br><br>
-		<a href="#">더 알아보기</a>
+		<a href="aboutf">더 알아보기</a>
 	</div>
 </div>
 </body>

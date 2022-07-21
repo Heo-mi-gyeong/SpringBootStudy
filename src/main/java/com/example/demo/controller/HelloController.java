@@ -11,8 +11,8 @@ public class HelloController {
 		return "member";
 	}
 	
-	@RequestMapping("/loginf")
-	public String loginf() {
-		return "login";
+	@RequestMapping("/aboutf")
+	public String aboutf() {
+		return "about";
 	}
 }
